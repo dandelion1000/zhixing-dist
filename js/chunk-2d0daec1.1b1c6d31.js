@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0daec1"],{"6e51":function(e,t,n){"use strict";n.r(t);var r=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"error"},[n("div",{staticClass:"error-text"},[e._v("\n        您没有权限访问该页面\n    ")])])}],c=n("2877"),a={},l=Object(c["a"])(a,r,s,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d0daec1.1b1c6d31.js.map
